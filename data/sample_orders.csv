@@ -1,0 +1,16 @@
+order_id,customer_id,order_date,product,quantity,unit_price,status,region
+1001,C501,2026-10-01,Widget A,2,19.99,shipped,West
+1002,C502,2026-10-02,Widget B,1,49.99,shipped,East
+1003,C503,2026-10-03,Widget A,5,19.99,pending,West
+1004,C501,2026-10-04,Widget C,3,9.99,shipped,West
+1005,C504,2026-10-05,Widget B,2,49.99,cancelled,North
+1002,C502,2026-10-02,Widget B,1,49.99,shipped,East
+1006,C505,,Widget A,1,19.99,shipped,South
+1007,C506,2026-10-07,Widget C,-2,9.99,shipped,East
+1008,C507,2026-10-08,Widget D,4,,pending,West
+1009,C508,2026-10-09,Widget A,2,19.99,UNKNOWN,West
+1010,C509,2026-10-10,Widget B,1,49.99,shipped,
+1011,C510,2026-10-11,Widget C,10,9.99,shipped,East
+1012,C511,2026-10-12,Widget A,3,19.99,shipped,West
+1013,C512,2026-13-45,Widget B,2,49.99,shipped,North
+1014,C513,2026-10-14,Widget D,1,29.99,shipped,South
